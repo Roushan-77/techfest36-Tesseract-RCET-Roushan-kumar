@@ -6,22 +6,22 @@
 > College: Rungta college of engineering and technology, Bhilai,CG (R1)
 >"*Team members:
 1. Roushan kumar(Lead) : backend function and chatbot
-2. Kundan Kumar : frontend
-3. piyush kumar : Frontend and backend Integration
+2. Kundan Kumar : Frontend
+3. piyush kumar : Frontend and Backend Integration
 4. Prachi Arya : UI Design
 5. Aayushi Kumari: PPT*"
 
-## ppt
+## PPT
 
 ### Project Presentation
 
 [Download Presentation (PPTX)](presentation/tesseract(R.C.E.T).pptx)
 
 
-## A healthcare AI  related to mental health
- AI-driven mental health assistant designed to help users reflect on their emotions through a short 5-question wellness check. It provides personalized suggestions, offers a basic chatbot for supportive conversation, and rewards users with a temporary motivational token. The project focuses on mental well-being, privacy, and emotional support, all without requiring any login.
+## Healthcare AI Related To Mental Health
+ AI-driven mental health assistant designed to help users reflect on their emotions through a short 8-question wellness check. It provides personalized suggestions, offers a Smart AI Chatbot for supportive conversation, and rewards users with a temporary motivational token. The project focuses on mental well-being, privacy, and emotional support, all without requiring any login.
 
-## description
+## Description
 Mental-Health-AI is an AI chatbot that helps users assess their mental well-being through interactive questions and provides personalized self-care recommendations. It also engages users in calming activities like music therapy to promote mental relaxation.
 
 
