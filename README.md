@@ -8,7 +8,7 @@
 1. Roushan kumar(Lead) : backend function and chatbot
 2. Kundan Kumar : frontend
 3. piyush kumar : Frontend and backend intigration
-4. prachi arya : UI Design
+4. Prachi Arya : UI Design
 5. Aayushi kumari: PPT*"
 
 ## ppt
